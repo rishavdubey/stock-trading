@@ -1,0 +1,12 @@
+Hi #{name},
+
+Welcome to NRT Broker! We're excited to have you on board.
+
+You can now access our platform and explore all the features we have to offer.
+
+If you have any questions or need assistance, feel free to reach out to our support team at nrt-broker-support@gmail.com .
+
+Thank you for joining us! We look forward to serving you.
+
+Best regards,
+NRT TEAM

@@ -1,0 +1,19 @@
+Hi #{firstName},
+
+We are pleased to inform you that your recent stock sale has been successfully processed. Below are the details of your transaction:
+
+Stock Name: #{stockName}
+Stock Symbol: #{stockSymbol}
+Sale Price: #{price}
+Quantity: #{quantity}
+Total Amount: #{totalAmount}
+Transaction Date: #{date}
+
+Your investment in #{stockName} has been updated in your portfolio. You can view your updated portfolio on our platform at any time.
+
+If you have any questions or need assistance, please don't hesitate to reach out to our support team at nrt-broker-support@gmail.com.
+
+Thank you for choosing NRT BROKER for your investment needs. We look forward to serving you.
+
+Best regards,
+NRT BROKER

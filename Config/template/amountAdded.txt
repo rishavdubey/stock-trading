@@ -1,0 +1,15 @@
+Hi #{firstName},
+
+We are pleased to inform you that your recent fund addition has been successfully processed. Below are the details of your transaction:
+
+Amount Added: #{amount}
+Transaction Date: #{date}
+New Account Balance: #{newBalance}
+
+Your account has been updated with the added funds. You can view your updated balance on our platform at any time.
+
+If you have any questions or need assistance, please don't hesitate to reach out to our support team at nrt-broker-support@gmail.com.
+
+Thank you for choosing NRT BROKER for your financial needs. We look forward to serving you.
+
+Best regards,
